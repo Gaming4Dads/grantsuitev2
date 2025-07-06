@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    user1:
+      name: John Doe
+      password: '$2b$12$zGVlRLZudk6QG1ZIzZ52yO.h1aXPlWc5uYqz4mSh7shXWGeE6.3pK'
+    user2:
+      name: Jane Smith
+      password: '$2b$12$4FgWz6zI83XGrKUd0uVX1ep9U/5rfjAcImDJqgGrWhQfqpQJXOVku'
+
+cookie:
+  name: ai_agent_app
+  key: some_random_key_here
+  expiry_days: 3
